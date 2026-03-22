@@ -62,7 +62,7 @@ Matplotlib
 Scikit-learn (for PCA only)
 🚀 How to Run
 # Clone the repo
-git clone https://github.com/your-username/llm-math-foundations
+git clone [https://github.com/your-username/llm-math-foundations](https://github.com/inareshmatta/llm_math_foundation)
 
 # Open notebook
 jupyter notebook
